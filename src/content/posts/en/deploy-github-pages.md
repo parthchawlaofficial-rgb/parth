@@ -1,6 +1,6 @@
 ---
 title: "Deploying Astro Narrow to GitHub Pages"
-description: "Configure GitHub Pages, project base paths, and local production builds without broken links."
+description: "केसे हो आप लोग मुझे अछा लगा तुमसे मिल कर ."
 pubDate: 2026-06-25
 categories: ["Deployment"]
 tags: ["GitHub Pages", "Deployment", "Astro"]
